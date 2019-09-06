@@ -1,0 +1,9 @@
+name: model-based-testing-research
+root: <%= Dir.pwd %>
+
+windows:
+  - frontend:
+      layout: main-vertical
+      panes:
+        - vim README.md
+        -

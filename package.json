@@ -1,0 +1,25 @@
+{
+  "name": "model-based-testing-research",
+  "version": "1.0.0",
+  "description": "Personal research project on model-based testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larrybotha/model-based-testing-research.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larrybotha/model-based-testing-research/issues"
+  },
+  "homepage": "https://github.com/larrybotha/model-based-testing-research#readme",
+  "devDependencies": {
+    "doctoc": "^1.4.0",
+    "husky": "^3.0.5",
+    "lint-staged": "^9.2.5"
+  }
+}
