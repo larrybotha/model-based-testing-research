@@ -47,6 +47,7 @@ change more effectively than applications written without an MBT approach.
 
 ### Model-Based Testing
 
+- [Detecting the unexpected in (Web) UI](https://medium.com/criteo-labs/detecting-the-unexpected-in-web-ui-fuzzing-1f3822c8a3a5)
 - [Model-based testing tools](https://www.cs.tut.fi/tapahtumat/testaus08/Olli-Pekka.pdf)
 - [Bloor Whitepaper - Automated testing: coping with
     change](https://www.ca.com/content/dam/ca/us/files/industry-analyst-report/bloor-research-white-paper-automated-testing-coping-with-change.pdf)
