@@ -39,6 +39,12 @@ change more effectively than applications written without an MBT approach.
 
 ### State Charts
 
+- [Statecharts - A Visual Formalism for Complex Systems](http://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf) by David Harel
+- [The World of Statecharts](https://statecharts.github.io/) by Erik Mogensen
+- [Pure UI](https://rauchg.com/2015/pure-ui) by Guillermo Rauch
+- [Pure UI Control](https://medium.com/@asolove/pure-ui-control-ac8d1be97a8d) by Adam Solove
+- [Spectrum - Statecharts Community](https://spectrum.chat/statecharts)
+
 ### Model-Based Testing
 
 - [Model-based testing tools](https://www.cs.tut.fi/tapahtumat/testaus08/Olli-Pekka.pdf)
