@@ -44,6 +44,7 @@ change more effectively than applications written without an MBT approach.
 - [Pure UI](https://rauchg.com/2015/pure-ui) by Guillermo Rauch
 - [Pure UI Control](https://medium.com/@asolove/pure-ui-control-ac8d1be97a8d) by Adam Solove
 - [Spectrum - Statecharts Community](https://spectrum.chat/statecharts)
+- [State Machine Diagrams](https://www.uml-diagrams.org/state-machine-diagrams.html#choice-pseudostate)
 
 ### Model-Based Testing
 
