@@ -41,10 +41,13 @@ change more effectively than applications written without an MBT approach.
 
 - [Statecharts - A Visual Formalism for Complex Systems](http://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf) by David Harel
 - [The World of Statecharts](https://statecharts.github.io/) by Erik Mogensen
+- [The World of Statecharts: Resources](https://statecharts.github.io/resources.html)
 - [Pure UI](https://rauchg.com/2015/pure-ui) by Guillermo Rauch
 - [Pure UI Control](https://medium.com/@asolove/pure-ui-control-ac8d1be97a8d) by Adam Solove
 - [Spectrum - Statecharts Community](https://spectrum.chat/statecharts)
 - [State Machine Diagrams](https://www.uml-diagrams.org/state-machine-diagrams.html#choice-pseudostate)
+- [UML State Chart Autocoding for the Mars Science Laboratory (MSL) Mission](https://www.youtube.com/watch?v=VvssxOP95s0)
+- [David Khourshid: Simplifying Complex UIs with Finite Automata & Statecharts](https://www.youtube.com/watch?v=RqTxtOXcv8Y)
 
 ### Model-Based Testing
 
