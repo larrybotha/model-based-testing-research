@@ -67,6 +67,9 @@ change more effectively than applications written without an MBT approach.
 - [Property-Based Testing: QuickCheck](http://www.cse.chalmers.se/edu/year/2013/course/DAT260/files/11-QuickCheck1.pdf)
 - [Model-Based Testing in React with State Machines](https://css-tricks.com/model-based-testing-in-react-with-state-machines/)
 - [Model-based Testing of Automotive Systems](https://www.win.tue.nl/~mvdbrand/courses/sse/0809/papers/MBT.pdf)
+- [Ericsson: Model-based testing, theory and practice](https://www.conformiq.com/wp-content/uploads/2015/02/MBT-Ericsson-Presentation-5-10.pdf)
+- [Model Learning and Model-Based Testing](http://www.ist.tugraz.at/aichernig/publications/papers/dagstuhl18.pdf)
+- [Combining Model-Based Testing and Machine Learning](https://tarot2016.wp.imtbs-tsp.eu/files/2016/02/TAROT16_RGroz.pdf)
 
 
 ## Related Subjects
