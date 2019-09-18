@@ -35,6 +35,8 @@ change more effectively than applications written without an MBT approach.
 
 ### 1. State charts and finite state machines
 
+[Simple FSM Demo](https://codepen.io/larrybotha/pen/abojVMq)
+
 ## Resources
 
 ### State Charts
