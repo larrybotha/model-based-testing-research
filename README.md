@@ -87,4 +87,10 @@ change more effectively than applications written without an MBT approach.
 
 ### Behavioural Programming
 
+- [Programming Animation Using Behavioral Programming](http://www.wisdom.weizmann.ac.il/~harel/papers/BP_Animation.pdf)
 - [wisdom.weizman.ac.il: Behavioral Programming](http://www.wisdom.weizmann.ac.il/~bprogram/more.html)
+- [wisom.weizman.ac.li: Behavioral Programming [paper]](http://www.wisdom.weizmann.ac.il/~amarron/BP%20-%20CACM%20-%20Author%20version.pdf)
+- [Behavioral Programming with React: request, wait and block - Luca Matteis - reactjsday 2018](https://www.youtube.com/watch?v=_BLQIE-_prc)
+- [Model-Checking Behavioral Programs](http://www.wisdom.weizmann.ac.il/~harel/papers/Model%20checking%20BP.pdf)
+- [Programming Coordinated Behavior in Java](http://www.wisdom.weizmann.ac.il/~amarron/BPJ%20for%20ECOOP%20-%20presentation.pdf)
+- [Adaptive Behavioral Programming](http://www.wisdom.weizmann.ac.il/~harel/papers/Adaptive%20BP.pdf)
