@@ -15,6 +15,7 @@ A personal research project on model-based testing.
   - [Model-Based Testing](#model-based-testing)
 - [Related Subjects](#related-subjects)
   - [TLA+](#tla)
+  - [Behavioural Programming](#behavioural-programming)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -50,6 +51,7 @@ change more effectively than applications written without an MBT approach.
 - [State Machine Diagrams](https://www.uml-diagrams.org/state-machine-diagrams.html#choice-pseudostate)
 - [UML State Chart Autocoding for the Mars Science Laboratory (MSL) Mission](https://www.youtube.com/watch?v=VvssxOP95s0)
 - [David Khourshid: Simplifying Complex UIs with Finite Automata & Statecharts](https://www.youtube.com/watch?v=RqTxtOXcv8Y)
+- [The armarX statechart concept: graphical Programing of robot Behavior](http://h2t.anthropomatik.kit.edu/pdf/Waechter2016.pdf)
 
 ### Model-Based Testing
 
@@ -82,3 +84,7 @@ change more effectively than applications written without an MBT approach.
 - [Learn TLA+](https://www.learntla.com/introduction/)
 - [TLA+ Hyperbook](http://lamport.azurewebsites.net/tla/hyperbook.html)
 - [Specifying Systems](http://lamport.azurewebsites.net/tla/book.html)
+
+### Behavioural Programming
+
+- [wisdom.weizman.ac.il: Behavioral Programming](http://www.wisdom.weizmann.ac.il/~bprogram/more.html)
