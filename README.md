@@ -75,6 +75,14 @@ change more effectively than applications written without an MBT approach.
 - [Model Learning and Model-Based Testing](http://www.ist.tugraz.at/aichernig/publications/papers/dagstuhl18.pdf)
 - [Combining Model-Based Testing and Machine Learning](https://tarot2016.wp.imtbs-tsp.eu/files/2016/02/TAROT16_RGroz.pdf)
 
+#### From [Automated Software Testing: Model and State-based Testing](https://courses.edx.org/courses/course-v1:DelftX+ST2x+3T2020/course/)
+
+- [Robert V. Binder, Testing Object-Oriented Systems: Models, Patterns, and Tools, Chapter 5. Addison Wesley, 2000](https://www.amazon.com/Testing-Object-Oriented-Systems-Models-Patterns/dp/0321700678)
+- [Rex Black, Erik van Veenendaal, and Dorothy Graham. Foundations of Software Testing (ISTQB), Chapter 4. Cengage Learning, 2012](https://www.amazon.com/Foundations-Software-Testing-ISTQB-Certification/dp/1408044056)
+- [Paul C. Jorgensen. Software Testing: A Craftman's Approach. Fourth Edition, Chapter 7. CRC Press, 2014.](https://www.crcpress.com/Software-Testing-A-Craftsmans-Approach-Fourth-Edition/Jorgensen/p/book/9781466560680)
+- [Glenford Myers. The Art of Software Testing, Chapter 4. John Wiley and Sons, 1979](https://www.wiley.com/en-us/The+Art+of+Software+Testing%2C+3rd+Edition-p-9781118031964)
+- [Mauro Pezzè and Michal Young. Software Testing and Analysis, Chapter 14. John Wiley and Sons, 2008.](http://ix.cs.uoregon.edu/~michal/book/)
+
 
 ## Related Subjects
 
