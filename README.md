@@ -75,6 +75,10 @@ change more effectively than applications written without an MBT approach.
 - [Model Learning and Model-Based Testing](http://www.ist.tugraz.at/aichernig/publications/papers/dagstuhl18.pdf)
 - [Combining Model-Based Testing and Machine Learning](https://tarot2016.wp.imtbs-tsp.eu/files/2016/02/TAROT16_RGroz.pdf)
 
+### Model-Based Design
+
+- [Rose-Hulman - Introduction to MBSD](http://wiki.ece.rose-hulman.edu/herniter/index.php/Introduction_to_Model-Based_Systems_Design)
+
 #### From [Automated Software Testing: Model and State-based Testing](https://courses.edx.org/courses/course-v1:DelftX+ST2x+3T2020/course/)
 
 - [Robert V. Binder, Testing Object-Oriented Systems: Models, Patterns, and Tools, Chapter 5. Addison Wesley, 2000](https://www.amazon.com/Testing-Object-Oriented-Systems-Models-Patterns/dp/0321700678)
